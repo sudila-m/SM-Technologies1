@@ -100,7 +100,3 @@ body{
 .who-we-are-about-img{
     width: 45%;
 }
-.who-we-are-about-img img{
-    width: 100%;
-    object-fit: cover;
-}
